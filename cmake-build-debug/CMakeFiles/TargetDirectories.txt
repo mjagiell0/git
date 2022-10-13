@@ -1,0 +1,3 @@
+D:/Studia/git/cmake-build-debug/CMakeFiles/git.dir
+D:/Studia/git/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studia/git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
